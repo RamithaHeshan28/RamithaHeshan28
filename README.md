@@ -20,7 +20,7 @@
 
 <!--- - 👨‍💻 All of my projects are available at [https://ramh.rf.gd](https://ramh.rf.gd) -->
 
-- 📝 I regularly write articles on [https://medium.com/@ramitha33](https://medium.com/@ramitha_)
+- 📝 I regularly write articles on [https://medium.com/@ramitha_](https://medium.com/@ramitha_)
 
 - 💬 Ask me about **JavaScript, C++, Java**
 
