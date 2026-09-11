@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ramitha Heshan</h1> 
 <h3 align="center">Software Engineering UG at CMU in UK | Blogger | Youtuber</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=RamithaHeshan33&label=Profile%20views&color=0e75b6&style=flat" alt="RamithaHeshan33" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=RamithaHeshan28&label=Profile%20views&color=0e75b6&style=flat" alt="RamithaHeshan28" /> </p>
 
 <div align="center">
 
-  ![](https://github-readme-stats.vercel.app/api?username=RamithaHeshan33&theme=dark&hide_border=false&card_width=400)  ![](https://github-readme-streak-stats.herokuapp.com/?user=RamithaHeshan33&theme=dark&hide_border=false&card_width=400)
+  ![](https://github-readme-stats.vercel.app/api?username=RamithaHeshan28&theme=dark&hide_border=false&card_width=400)  ![](https://github-readme-streak-stats.herokuapp.com/?user=RamithaHeshan28&theme=dark&hide_border=false&card_width=400)
 
 </div>
 
@@ -13,14 +13,14 @@
 ---
 
 <a target="_blank" align="center">
-  <img align="right" top="500" height="300" width="300" alt="GIF" src="https://github.com/RamithaHeshan33/RamithaHeshan33/blob/main/Right_Side.gif">
+  <img align="right" top="500" height="300" width="300" alt="GIF" src="https://github.com/RamithaHeshan28/RamithaHeshan28/blob/main/Right_Side.gif">
 </a>
 
 - 🌱 I’m currently learning **Machine Learning, Artificial Intelligence, Software Engineering**
 
 <!--- - 👨‍💻 All of my projects are available at [https://ramh.rf.gd](https://ramh.rf.gd) -->
 
-- 📝 I regularly write articles on [https://medium.com/@ramitha_](https://medium.com/@ramitha_)
+- 📝 I regularly write articles on [https://medium.com/@ramitha28](https://medium.com/@ramitha28)
 
 - 💬 Ask me about **JavaScript, C++, Java**
 
@@ -28,7 +28,7 @@
 
 - ⚡ Fun fact **Call me Ramiya**
 
-- ✨ My Design Projects [behance.net/ramitha33](https://www.behance.net/ramithaheshan)
+- ✨ My Design Projects [behance.net/ramitha28](https://www.behance.net/ramithaheshan)
 
 ---
 
@@ -38,7 +38,7 @@
 <a href="https://kaggle.com/ramithaheshan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ramithaheshan" height="30" width="40" /></a>
 <a href="https://www.facebook.com/ramitha.heshan.1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ramitha heshan" height="30" width="40" /></a>
 <a href="https://instagram.com/ramitha heshan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ramitha heshan" height="30" width="40" /></a>
-<a href="https://medium.com/@ramitha33" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ramitha33" height="30" width="40" /></a>
+<a href="https://medium.com/@ramitha28" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ramitha28" height="30" width="40" /></a>
 </p>
 
 ---
@@ -54,6 +54,6 @@
 
 
 <!-- Footer -->
-<img src="https://github.com/RamithaHeshan33/RamithaHeshan33/blob/main/footer.svg">
+<img src="https://github.com/RamithaHeshan28/RamithaHeshan28/blob/main/footer.svg">
 
 
